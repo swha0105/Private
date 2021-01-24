@@ -1,0 +1,4 @@
+visualization 
+
+1. model network
+2. feature for each node 
